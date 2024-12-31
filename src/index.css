@@ -113,6 +113,9 @@ section{
     border: 2px solid black;
     border-radius: 10px;
 }
+section ul{
+    overflow:auto;
+}
 
 section ul li{
     list-style-type: none;
